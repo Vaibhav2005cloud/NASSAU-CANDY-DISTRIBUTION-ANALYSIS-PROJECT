@@ -1,3 +1,4 @@
+HEAD
 # 🍬 Nassau Candy Distributor — Product Line Profitability Analytics
 
 > **Unified Mentor Project** · Streamlit Dashboard · Dark Cosmos Theme
@@ -5,7 +6,7 @@
 A full-stack, production-ready analytics dashboard that transforms raw order data
 into actionable profitability intelligence across product lines, divisions, and factories.
 
----
+
 
 ## 📁 Project Structure
 
@@ -38,7 +39,7 @@ nassau_candy_analytics/
 └── README.md
 ```
 
----
+
 
 ## 🚀 Quick Start (VS Code)
 
@@ -79,7 +80,7 @@ The app opens automatically at **http://localhost:8501**
 | 📊 Pareto Analysis | 80/20 profit & revenue concentration · Cumulative charts · Contribution table |
 | 🌍 Geo & Factory | US state choropleth · Factory bubble map · Top-10 states |
 
----
+
 
 ## 🎛️ Sidebar Filters (global, affect all pages)
 - **Division** — Chocolate / Sugar / Other
@@ -87,7 +88,7 @@ The app opens automatically at **http://localhost:8501**
 - **Min Gross Margin (%)** — slider threshold
 - **Order Date Range** — date picker
 
----
+
 
 ## 🔑 KPIs Computed
 
@@ -100,7 +101,7 @@ The app opens automatically at **http://localhost:8501**
 | Profit Contribution | Product Profit ÷ Total Profit × 100 |
 | Margin Volatility | Std-dev of Gross Margin across orders |
 
----
+
 
 ## 🏭 Factory Reference
 
@@ -112,7 +113,7 @@ The app opens automatically at **http://localhost:8501**
 | Secret Factory | Illinois |
 | The Other Factory | Tennessee |
 
----
+
 
 ## 🛠️ Tech Stack
 - **Streamlit** 1.35 — UI framework
@@ -120,6 +121,10 @@ The app opens automatically at **http://localhost:8501**
 - **Pandas / NumPy** — data processing
 - **scikit-learn / scipy** — statistical helpers
 
----
+
 
 *Built for Unified Mentor · Nassau Candy Distributor case study*
+
+# NASSAU-CANDY-DISTRIBUTION-ANALYSIS-PROJECT
+An interactive web app built with Streamlit, featuring real-time data processing, dynamic inputs, and a simple user interface. Designed for fast, efficient, and scalable local deployment
+fafa4ff432c71cc5ac0b0cd233af07d01f949754
